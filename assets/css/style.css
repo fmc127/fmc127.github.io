@@ -291,7 +291,7 @@ section {
   margin-bottom: 20px;
   padding-bottom: 20px;
   position: relative;
-  color: #1797C2;
+  color: #2cc3dd;
 }
 
 .section-title h2::after {
@@ -307,7 +307,7 @@ section {
 
 .section-title p {
   margin-bottom: 0;
-  color: #e1ebeb;
+  color: ##e1ebeb;
 }
 
 /*--------------------------------------------------------------
@@ -317,7 +317,7 @@ section {
 .about .content h3 {
   font-weight: 700;
   font-size: 26px;
-  color: #173b6c;
+  color: #2CC3DE;
 }
 
 .about .content ul {
@@ -332,7 +332,7 @@ section {
 .about .content ul i {
   font-size: 20px;
   padding-right: 2px;
-  color: #149ddd;
+  color: #2cc3de;
 }
 
 .about .content p:last-child {
@@ -354,13 +354,13 @@ section {
   font-weight: 700;
   margin-top: 20px;
   margin-bottom: 20px;
-  color: #050d18;
+  color: #2cc3dd;
 }
 
 .resume .resume-item {
   padding: 0 0 20px 20px;
   margin-top: -2px;
-  border-left: 2px solid #1f5297;
+  border-left: 2px solid #6c6d7369;
   position: relative;
 }
 
@@ -370,13 +370,13 @@ section {
   font-weight: 600;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  color: #050d18;
+  color: #2cc3dd;
   margin-bottom: 10px;
 }
 
 .resume .resume-item h5 {
   font-size: 16px;
-  background: #e4edf9;
+  background: #0f1617;
   padding: 5px 15px;
   display: inline-block;
   font-weight: 600;
@@ -395,17 +395,7 @@ section {
   padding-bottom: 0;
 }
 
-.resume .resume-item::before {
-  content: "";
-  position: absolute;
-  width: 16px;
-  height: 16px;
-  border-radius: 50px;
-  left: -9px;
-  top: 0;
-  background: #fff;
-  border: 2px solid #1f5297;
-}
+
 
 /*--------------------------------------------------------------
 # Portfolio
