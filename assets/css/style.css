@@ -274,11 +274,11 @@ h1, h2, h3, h4, h5, h6 {
 section {
   padding: 60px 0;
   overflow: hidden;
-  background-color: #101717
+  background-color: #1b1c1d;
 }
 
-.section-bg {
-  background: #f5f8fd;
+.portfolio.section-bg {
+  background: #28292a;
 }
 
 .section-title {
@@ -307,7 +307,7 @@ section {
 
 .section-title p {
   margin-bottom: 0;
-  color: ##e1ebeb;
+  color: #e1ebeb;
 }
 
 /*--------------------------------------------------------------
