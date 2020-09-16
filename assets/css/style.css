@@ -829,7 +829,7 @@ section {
   left: 0;
   bottom: 0;
   width: 300px;
-  z-index: 9998;
+  z-index: 9999;
   background: #040b14;
 }
 
