@@ -687,8 +687,8 @@ section {
 --------------------------------------------------------------*/
 #footer {
   padding: 15px;
-  color: #f4f6fd;
-  font-size: 14px;
+  color: #21212105;
+  font-size: 1px;
   position: fixed;
   left: 0;
   bottom: 0;
@@ -698,14 +698,15 @@ section {
 }
 
 #footer .copyright {
+  color: #000000
   text-align: center;
 }
 
 #footer .credits {
   padding-top: 5px;
   text-align: center;
-  font-size: 13px;
-  color: #eaebf0;
+  font-size: 1px;
+  color: #08060600;
 }
 
 @media (max-width: 1199px) {
